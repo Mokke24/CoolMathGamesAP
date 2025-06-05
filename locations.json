@@ -1,0 +1,218 @@
+[
+  {
+    "name": "Papa's Cupcakeria",
+    "region": "Papa's Series",
+    "category": [
+      "Papa's Series"
+    ],
+    "requires": "|Job Application|"
+  },
+  {
+    "region": "Papa's Series",
+    "name": "Papa's Taco Mia",
+    "category": [
+      "Papa's Series"
+    ],
+    "requires": "|Job Application|"
+  },
+  {
+    "name": "Papa's Donuteria",
+    "region": "Papa's Series",
+    "category": [
+      "Papa's Series"
+    ],
+    "requires": "|Job Application|"
+  },
+  {
+    "name": "Papa's Wingeria",
+    "region": "Papa's Series",
+    "category": [
+      "Papa's Series"
+    ],
+    "requires": "|Job Application|"
+  },
+  {
+    "region": "Papa's Series",
+    "name": "Papa's Burgeria",
+    "category": [
+      "Papa's Series"
+    ],
+    "requires": "|Job Application|"
+  },
+  {
+    "name": "Papa's Hot Doggeria",
+    "region": "Papa's Series",
+    "category": [
+      "Papa's Series"
+    ],
+    "requires": "|Job Application|"
+  },
+  {
+    "name": "Papa's Freezeria",
+    "region": "Papa's Series",
+    "category": [
+      "Papa's Series"
+    ],
+    "requires": "|Job Application|"
+  },
+  {
+    "name": "Papa's Panakeria",
+    "region": "Papa's Series",
+    "category": [
+      "Papa's Series"
+    ],
+    "requires": "|Job Application|"
+  },
+  {
+    "name": "Papa's Pizzeria",
+    "region": "Papa's Series",
+    "category": [
+      "Papa's Series"
+    ],
+    "requires": "|Job Application|"
+  },
+  {
+    "name": "Papa's Pastaria",
+    "region": "Papa's Series",
+    "category": [
+      "Papa's Series"
+    ],
+    "requires": "|Job Application|"
+  },
+  {
+    "name": "Papa's Cheeseria",
+    "region": "Papa's Series",
+    "category": [
+      "Papa's Series"
+    ],
+    "requires": "|Job Application|"
+  },
+  {
+    "name": "Papa's Bakeria",
+    "region": "Papa's Series",
+    "category": [
+      "Papa's Series"
+    ],
+    "requires": "|Job Application|"
+  },
+  {
+    "name": "Papa's Sushiria",
+    "region": "Papa's Series",
+    "category": [
+      "Papa's Series"
+    ],
+    "requires": "|Job Application|"
+  },
+  {
+    "name": "Papa's Scooperia",
+    "region": "Papa's Series",
+    "category": [
+      "Papa's Series"
+    ],
+    "requires": "|Job Application|"
+  },
+  {
+    "name": "These are some Cool Math Games",
+    "victory": true,
+    "category": [
+      "Victory"
+    ],
+    "requires": "|Papa's Approval| AND |Saved Pineapple| AND |Duck Champion| AND |Ran|"
+  },
+  {
+    "name": "Duck Life",
+    "region": "Duck Life",
+    "category": [
+      "Duck Life Series"
+    ],
+    "requires": "|Ducks|"
+  },
+  {
+    "name": "Duck Life 2: World Champion",
+    "region": "Duck Life",
+    "category": [
+      "Duck Life Series"
+    ],
+    "requires": "|Ducks|"
+  },
+  {
+    "name": "Duck Life 3: Evolution",
+    "region": "Duck Life",
+    "category": [
+      "Duck Life Series"
+    ],
+    "requires": "|Ducks|"
+  },
+  {
+    "name": "Duck Life 4",
+    "region": "Duck Life",
+    "category": [
+      "Duck Life Series"
+    ],
+    "requires": "|Ducks|"
+  },
+  {
+    "name": "Duck Life: Treasure Hunt",
+    "region": "Duck Life",
+    "category": [
+      "Duck Life Series"
+    ],
+    "requires": "|Ducks|"
+  },
+  {
+    "name": "Big Tower Tiny Square",
+    "region": "Big Tower Tiny Cube",
+    "category": [
+      "Big Tower Tiny Square Series"
+    ],
+    "requires": "|Pineapple|"
+  },
+  {
+    "name": "Big Tower Tiny Square 2",
+    "region": "Big Tower Tiny Cube",
+    "category": [
+      "Big Tower Tiny Square Series"
+    ],
+    "requires": "|Pineapple|"
+  },
+  {
+    "name": "Big Ice Tower Tiny Square",
+    "region": "Big Tower Tiny Cube",
+    "category": [
+      "Big Tower Tiny Square Series"
+    ],
+    "requires": "|Pineapple|"
+  },
+   {
+    "name": "Big Neon Tower Tiny Square",
+    "region": "Big Tower Tiny Cube",
+    "category": [
+      "Big Tower Tiny Square Series"
+    ],
+    "requires": "|Pineapple|"
+  },
+  {
+    "name": "Run",
+    "region": "Run",
+    "category": [
+      "Run"
+    ],
+    "requires": "|Running|"
+  },
+  {
+    "name": "Run 2",
+    "region": "Run",
+    "category": [
+      "Run"
+    ],
+    "requires": "|Running|"
+  },
+  {
+    "name": "Run 3",
+    "region": "Run",
+    "category": [
+      "Run"
+    ],
+    "requires": "|Running|"
+  }
+]

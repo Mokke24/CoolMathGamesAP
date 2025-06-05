@@ -1,0 +1,78 @@
+[
+  {
+    "count": 1,
+    "name": "Job Application",
+    "category": [
+      "Papa's Series"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Pineapple",
+    "category": [
+      "Big Tower Tiny Cube Series"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Ducks",
+    "category": [
+      "Duck Life Series"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Ads",
+    "category": [],
+    "trap": true
+  },
+  {
+    "count": 1,
+    "name": "Restart Game",
+    "category": [],
+    "trap": true
+  },
+  {
+    "count": 1,
+    "name": "Running",
+    "category": [
+      "Run Series"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Papa's Approval",
+    "category": [
+      "Papa's Series"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Saved Pineapple",
+    "category": [
+      "Big Tower Tiny Cube Series"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Duck Champion",
+    "category": [
+      "Duck Life Series"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Ran",
+    "category": [
+      "Run Series"
+    ],
+    "progression": true
+  }
+]

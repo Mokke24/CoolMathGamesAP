@@ -1,0 +1,34 @@
+{
+  "Papa's Series": {
+    "connects_to": [
+      "Big Tower Tiny Cube",
+      "Duck Life",
+      "Run"
+    ],
+    "requires": "|Job Application|"
+  },
+  "Big Tower Tiny Cube": {
+    "connects_to": [
+      "Papa's Series",
+      "Duck Life",
+      "Run"
+    ],
+    "requires": "|Pineapple|"
+  },
+  "Duck Life": {
+    "connects_to": [
+      "Big Tower Tiny Cube",
+      "Papa's Series",
+      "Run"
+    ],
+    "requires": "|Ducks|"
+  },
+  "Run": {
+    "connects_to": [
+      "Big Tower Tiny Cube",
+      "Duck Life",
+      "Papa's Series"
+    ],
+    "requires": "|Running|"
+  }
+}
