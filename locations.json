@@ -117,7 +117,7 @@
     "category": [
       "Victory"
     ],
-    "requires": "|Papa's Approval| AND |Saved Pineapple| AND |Duck Champion| AND |Ran|"
+    "requires": "|Papa's Approval| AND |Saved Pineapple| AND |Duck Champion| AND |Ran| AND |Evaporation|"
   },
   {
     "name": "Duck Life",
@@ -214,5 +214,53 @@
       "Run"
     ],
     "requires": "|Running|"
+  },
+  {
+    "name": "Fireboy and Watergirl: In the Forest Temple",
+    "region": "Fireboy and Watergirl",
+    "category": [
+      "Fireboy and Watergirl Series"
+    ],
+    "requires": "|A Friend|"
+  },
+  {
+    "name": "Fireboy and Watergirl: In the Light Temple",
+    "region": "Fireboy and Watergirl",
+    "category": [
+      "Fireboy and Watergirl Series"
+    ],
+    "requires": "|A Friend|"
+  },
+  {
+    "name": "Fireboy and Watergirl: In the Ice Temple",
+    "region": "Fireboy and Watergirl",
+    "category": [
+      "Fireboy and Watergirl Series"
+    ],
+    "requires": "|A Friend|"
+  },
+  {
+    "name": "Fireboy and Watergirl: In the Crystal Temple",
+    "region": "Fireboy and Watergirl",
+    "category": [
+      "Fireboy and Watergirl Series"
+    ],
+    "requires": "|A Friend|"
+  },
+  {
+    "name": "Fireboy and Watergirl: Elements",
+    "region": "Fireboy and Watergirl",
+    "category": [
+      "Fireboy and Watergirl Series"
+    ],
+    "requires": "|A Friend|"
+  },
+  {
+    "name": "Fireboy and Watergirl: Fairy Tales",
+    "region": "Fireboy and Watergirl",
+    "category": [
+      "Fireboy and Watergirl Series"
+    ],
+    "requires": "|A Friend|"
   }
 ]

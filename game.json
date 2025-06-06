@@ -5,7 +5,7 @@
   "filler_item_name": "Uncool math games",
   "starting_items":[
           {
-              "items": ["Job Application", "Running", "Pineapple", "Ducks"],
+              "items": ["Job Application", "Running", "Pineapple", "Ducks", "A Friend"],
               "random": 1
           }
   ]

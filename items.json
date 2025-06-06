@@ -74,5 +74,21 @@
       "Run Series"
     ],
     "progression": true
+  },
+   {
+    "count": 1,
+    "name": "A Friend",
+    "category": [
+      "Fireboy and Watergirl Series"
+    ],
+    "progression": true
+  },
+ {
+    "count": 1,
+    "name": "Evaporation",
+    "category": [
+      "Fireboy and Watergirl Series"
+    ],
+    "progression": true
   }
 ]

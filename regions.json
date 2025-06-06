@@ -3,7 +3,8 @@
     "connects_to": [
       "Big Tower Tiny Cube",
       "Duck Life",
-      "Run"
+      "Run",
+      "Fireboy and Watergirl"
     ],
     "requires": "|Job Application|"
   },
@@ -11,7 +12,8 @@
     "connects_to": [
       "Papa's Series",
       "Duck Life",
-      "Run"
+      "Run",
+      "Fireboy and Watergirl"
     ],
     "requires": "|Pineapple|"
   },
@@ -19,7 +21,8 @@
     "connects_to": [
       "Big Tower Tiny Cube",
       "Papa's Series",
-      "Run"
+      "Run",
+      "Fireboy and Watergirl"
     ],
     "requires": "|Ducks|"
   },
@@ -27,8 +30,18 @@
     "connects_to": [
       "Big Tower Tiny Cube",
       "Duck Life",
-      "Papa's Series"
+      "Papa's Series",
+      "Fireboy and Watergirl"
     ],
     "requires": "|Running|"
+  },
+    "Fireboy and Watergirl": {
+    "connects_to": [
+      "Papa's Series",
+      "Duck Life",
+      "Run",
+      "Big Tower Tiny Cube"
+    ],
+    "requires": "|A Friend|"
   }
 }
